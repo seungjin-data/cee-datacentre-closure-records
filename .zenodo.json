@@ -1,0 +1,23 @@
+{
+  "title": "Data and code for: Tracing closure obligations and payments in public data-centre records",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "notes": "Code in this deposit is licensed under the MIT License (see LICENSE); data, registers and documentation under CC BY 4.0 (see LICENSE-DATA.md).",
+  "description": "Derived data, source registers and code for a study of how far closure obligations, costs, financial assurance, payments and environmental evidence for data centres can be traced in public records: 18 identified Irish EPA licences, the EPA list of 197 registrations with financial provision requirements at 31 December 2025, the filed statements of eight licence-holding companies, and 27 international tracking records. The two record sets are reported separately and are not pooled. Agency and company documents are not redistributed; a source register gives publisher, date, URL where recorded, pages used and SHA-256.",
+  "creators": [
+    {
+      "name": "Kim, SeungJin",
+      "affiliation": "Institute for Industrial Policy Studies (IPS)",
+      "orcid": "0009-0007-6876-0777"
+    }
+  ],
+  "keywords": [
+    "data centres",
+    "closure",
+    "financial provision",
+    "environmental liability",
+    "public records"
+  ]
+}

@@ -1,0 +1,57 @@
+Case,Case ID,Stage,Cell text in Table 4,Sources read,Grade of the cell
+"Hartford, CT",C03,Operation ended,Vacant since 2008 (official),State scoping notice (USD 8.4 million); development authority minutes June 2025; 2015 bond disclosure; consultant web page 23 Oct 2026 (read 16 Nov 2026); press,official
+"Hartford, CT",C03,Equipment removal,Unverified,State scoping notice (USD 8.4 million); development authority minutes June 2025; 2015 bond disclosure; consultant web page 23 Oct 2026 (read 16 Nov 2026); press,unverified
+"Hartford, CT",C03,Building,"Demolition under way, 2026",State scoping notice (USD 8.4 million); development authority minutes June 2025; 2015 bond disclosure; consultant web page 23 Oct 2026 (read 16 Nov 2026); press,see source
+"Hartford, CT",C03,Environmental review,Hazards identified (official); no measurements,State scoping notice (USD 8.4 million); development authority minutes June 2025; 2015 bond disclosure; consultant web page 23 Oct 2026 (read 16 Nov 2026); press,official
+"Hartford, CT",C03,Public finance,State grants and city fund committed (official),State scoping notice (USD 8.4 million); development authority minutes June 2025; 2015 bond disclosure; consultant web page 23 Oct 2026 (read 16 Nov 2026); press,official
+"Hartford, CT",C03,Spending carried out,Unverified,State scoping notice (USD 8.4 million); development authority minutes June 2025; 2015 bond disclosure; consultant web page 23 Oct 2026 (read 16 Nov 2026); press,unverified
+"Hartford, CT",C03,Final responsibility,Unverified,State scoping notice (USD 8.4 million); development authority minutes June 2025; 2015 bond disclosure; consultant web page 23 Oct 2026 (read 16 Nov 2026); press,unverified
+"Wenatchee, WA",C23,Operation ended,By June 2021 (official),"Port authority meeting packets 11 Jul 2023 (pp.66-67), 13 Aug 2024 (pp.22, 233), 14 Jan 2025 (p.106): page images read by two verifiers; minutes Oct 2021, Nov 2022; 2023 financial statements",official
+"Wenatchee, WA",C23,Equipment removal,Salvage contract (official),"Port authority meeting packets 11 Jul 2023 (pp.66-67), 13 Aug 2024 (pp.22, 233), 14 Jan 2025 (p.106): page images read by two verifiers; minutes Oct 2021, Nov 2022; 2023 financial statements",official
+"Wenatchee, WA",C23,Building,Retained and reinstated,"Port authority meeting packets 11 Jul 2023 (pp.66-67), 13 Aug 2024 (pp.22, 233), 14 Jan 2025 (p.106): page images read by two verifiers; minutes Oct 2021, Nov 2022; 2023 financial statements",see source
+"Wenatchee, WA",C23,Environmental review,Soil and mould tests ordered; results unverified,"Port authority meeting packets 11 Jul 2023 (pp.66-67), 13 Aug 2024 (pp.22, 233), 14 Jan 2025 (p.106): page images read by two verifiers; minutes Oct 2021, Nov 2022; 2023 financial statements",see source
+"Wenatchee, WA",C23,Public finance,Port budget USD 3.2 million (official),"Port authority meeting packets 11 Jul 2023 (pp.66-67), 13 Aug 2024 (pp.22, 233), 14 Jan 2025 (p.106): page images read by two verifiers; minutes Oct 2021, Nov 2022; 2023 financial statements",official
+"Wenatchee, WA",C23,Spending carried out,"Tenant payment of USD 1.9 million reported by the owner; register payments June 2024; USD 64,406 in Jan to Jun 2024 (official); total unverified","Port authority meeting packets 11 Jul 2023 (pp.66-67), 13 Aug 2024 (pp.22, 233), 14 Jan 2025 (p.106): page images read by two verifiers; minutes Oct 2021, Nov 2022; 2023 financial statements",official
+"Wenatchee, WA",C23,Final responsibility,Unverified; close-out reported 2025,"Port authority meeting packets 11 Jul 2023 (pp.66-67), 13 Aug 2024 (pp.22, 233), 14 Jan 2025 (p.106): page images read by two verifiers; minutes Oct 2021, Nov 2022; 2023 financial statements",unverified
+"Eagan, MN",C04,Operation ended,"Stated by public agency, 2025","Dakota County CDA notice and press release, 2 October 2025",see source
+"Eagan, MN",C04,Equipment removal,Planned in contract scope,"Dakota County CDA notice and press release, 2 October 2025",see source
+"Eagan, MN",C04,Building,Demolition under way from Sept 2025; completion unverified,"Dakota County CDA notice and press release, 2 October 2025",see source
+"Eagan, MN",C04,Environmental review,Unverified,"Dakota County CDA notice and press release, 2 October 2025",unverified
+"Eagan, MN",C04,Public finance,Site purchase and demolition contract approved (official),"Dakota County CDA notice and press release, 2 October 2025",official
+"Eagan, MN",C04,Spending carried out,Unverified,"Dakota County CDA notice and press release, 2 October 2025",unverified
+"Eagan, MN",C04,Final responsibility,Unverified,"Dakota County CDA notice and press release, 2 October 2025",unverified
+"Troy, MI",C24,Operation ended,Building vacant since 2006 (press); data-centre end date unverified,"Contractor case-study page (read 16 Nov 2026: USD 2.9M, completed 1 March 2024, no mention of a data centre); press",press
+"Troy, MI",C24,Equipment removal,Unverified,"Contractor case-study page (read 16 Nov 2026: USD 2.9M, completed 1 March 2024, no mention of a data centre); press",unverified
+"Troy, MI",C24,Building,"Headquarters demolition complete, 2024 (contractor, press)","Contractor case-study page (read 16 Nov 2026: USD 2.9M, completed 1 March 2024, no mention of a data centre); press",press
+"Troy, MI",C24,Environmental review,Unverified,"Contractor case-study page (read 16 Nov 2026: USD 2.9M, completed 1 March 2024, no mention of a data centre); press",unverified
+"Troy, MI",C24,Public finance,Unverified,"Contractor case-study page (read 16 Nov 2026: USD 2.9M, completed 1 March 2024, no mention of a data centre); press",unverified
+"Troy, MI",C24,Spending carried out,Contractor project value USD 2.9 million for the whole building; unallocated,"Contractor case-study page (read 16 Nov 2026: USD 2.9M, completed 1 March 2024, no mention of a data centre); press",see source
+"Troy, MI",C24,Final responsibility,Unverified,"Contractor case-study page (read 16 Nov 2026: USD 2.9M, completed 1 March 2024, no mention of a data centre); press",unverified
+"Olympia, WA",C25,Operation ended,Planned for 2015 (press); completion unverified,Government Technology 2013-07-22,press
+"Olympia, WA",C25,Equipment removal,Unverified,Government Technology 2013-07-22,unverified
+"Olympia, WA",C25,Building,Unverified,Government Technology 2013-07-22,unverified
+"Olympia, WA",C25,Environmental review,Unverified,Government Technology 2013-07-22,unverified
+"Olympia, WA",C25,Public finance,Estimate of about USD 9 million (press),Government Technology 2013-07-22,press
+"Olympia, WA",C25,Spending carried out,Unverified,Government Technology 2013-07-22,unverified
+"Olympia, WA",C25,Final responsibility,Unverified,Government Technology 2013-07-22,unverified
+"Denver, CO",C27,Operation ended,July 2023 (press),Data Center Dynamics article (undated),press
+"Denver, CO",C27,Equipment removal,Unverified,Data Center Dynamics article (undated),unverified
+"Denver, CO",C27,Building,Retained; offered for sale or lease,Data Center Dynamics article (undated),see source
+"Denver, CO",C27,Environmental review,Unverified,Data Center Dynamics article (undated),unverified
+"Denver, CO",C27,Public finance,None recorded,Data Center Dynamics article (undated),see source
+"Denver, CO",C27,Spending carried out,Unverified,Data Center Dynamics article (undated),unverified
+"Denver, CO",C27,Final responsibility,Unverified,Data Center Dynamics article (undated),unverified
+"Fayetteville, NC",C26,Operation ended,Partial; operator leases back part (press),Trade press article (read 16 Nov 2026: sale USD 2.24 million; operator leases back part),press
+"Fayetteville, NC",C26,Equipment removal,Unverified,Trade press article (read 16 Nov 2026: sale USD 2.24 million; operator leases back part),unverified
+"Fayetteville, NC",C26,Building,Retained; sold (press),Trade press article (read 16 Nov 2026: sale USD 2.24 million; operator leases back part),press
+"Fayetteville, NC",C26,Environmental review,Unverified,Trade press article (read 16 Nov 2026: sale USD 2.24 million; operator leases back part),unverified
+"Fayetteville, NC",C26,Public finance,None recorded,Trade press article (read 16 Nov 2026: sale USD 2.24 million; operator leases back part),see source
+"Fayetteville, NC",C26,Spending carried out,Unverified,Trade press article (read 16 Nov 2026: sale USD 2.24 million; operator leases back part),unverified
+"Fayetteville, NC",C26,Final responsibility,Unverified,Trade press article (read 16 Nov 2026: sale USD 2.24 million; operator leases back part),unverified
+"The Dalles, OR",C05,Operation ended,Not a closure; operator rebuilding,Columbia Community Connection 2026-08-04,see source
+"The Dalles, OR",C05,Equipment removal,Reported (press),Columbia Community Connection 2026-08-04,press
+"The Dalles, OR",C05,Building,"Partly removed; new building approved, 2026",Columbia Community Connection 2026-08-04,see source
+"The Dalles, OR",C05,Environmental review,Unverified,Columbia Community Connection 2026-08-04,unverified
+"The Dalles, OR",C05,Public finance,None recorded,Columbia Community Connection 2026-08-04,see source
+"The Dalles, OR",C05,Spending carried out,Unverified,Columbia Community Connection 2026-08-04,unverified
+"The Dalles, OR",C05,Final responsibility,Operator (press),Columbia Community Connection 2026-08-04,press

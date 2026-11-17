@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the deposit below."
+type: dataset
+title: "Data and code for: Tracing closure obligations and payments in public data-centre records"
+authors:
+  - family-names: Kim
+    given-names: SeungJin
+    orcid: "https://orcid.org/0009-0007-6876-0777"
+    affiliation: "Institute for Industrial Policy Studies (IPS), Seoul, Republic of Korea"
+version: "1.0.0"
+date-released: "2026-11-18"
+license:
+  - CC-BY-4.0
+  - MIT
+repository-code: "https://github.com/seungjin-data/cee-datacentre-closure-records"
+keywords:
+  - data centres
+  - closure
+  - financial provision
+  - environmental liability
+  - public records

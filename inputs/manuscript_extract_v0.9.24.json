@@ -1,0 +1,514 @@
+[
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Table 1 | Closure obligation, listing and costing records for 18 data-centre licences. Listing status refers to the EPA list at 31 December 2025. Not observed means that no entry was found in the defined source; it does not mean that no cost or instrument exists. Fifteen of the 16 annual reports were read as text and one (P1192) from a page image. No 2025 report was found for the other two licences, which is not a finding that none was filed. The statements that closure costs were not estimated come from closure plans in the licence files and are listed with licence, application number, procedure, page and verification method in Supplementary Table 3. They are a different record from the inspector’s assessment."
+   }
+  ]
+ },
+ {
+  "k": "t",
+  "rows": [
+   [
+    "Record",
+    "Licences",
+    "Share of 18"
+   ],
+   [
+    "Closure obligation in licence (Condition 10.1)",
+    "18",
+    "100%"
+   ],
+   [
+    "Closure plan or cost required in advance by the licence",
+    "0",
+    "0%"
+   ],
+   [
+    "Financial provision clause discretionary",
+    "18",
+    "100%"
+   ],
+   [
+    "Listed as requiring financial provision",
+    "1",
+    "5.6%"
+   ],
+   [
+    "Agreed incident-liability cost in list",
+    "0",
+    "0%"
+   ],
+   [
+    "Agreed closure cost in list",
+    "0",
+    "0%"
+   ],
+   [
+    "Provision instrument in list",
+    "0",
+    "0%"
+   ],
+   [
+    "Closure plan filed with the initial application states that closure costs were not estimated",
+    "5",
+    "27.8%"
+   ],
+   [
+    "Same statement in a closure plan filed in a licence review (P1113)",
+    "1",
+    "5.6%"
+   ],
+   [
+    "Same statement in an earlier reading, not matched to the application (P1170)",
+    "1",
+    "5.6%"
+   ],
+   [
+    "No costing document obtained",
+    "11",
+    "61.1%"
+   ],
+   [
+    "2025 annual report available",
+    "16",
+    "88.9%"
+   ],
+   [
+    "Operator answer \"No\" to agreed provision, in the 16 available reports",
+    "16",
+    "100% of 16"
+   ]
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Table 2 | Listing of a closure cost and an instrument for the 197 registrations. The first four rows are mutually exclusive and sum to 197. The registration with an instrument only is P0577, which has a listed incident cost. The last two rows change the cost definition and overlap with the rows above. Two independent extractions agreed for all 197 registrations. Table 4 of the EPA source does not identify the cost covered by each instrument."
+   }
+  ]
+ },
+ {
+  "k": "t",
+  "rows": [
+   [
+    "Listing state of the registration",
+    "Registrations",
+    "Share of 197"
+   ],
+   [
+    "Closure cost and instrument both listed",
+    "162",
+    "82.2%"
+   ],
+   [
+    "Closure cost only",
+    "13",
+    "6.6%"
+   ],
+   [
+    "Instrument only",
+    "1",
+    "0.5%"
+   ],
+   [
+    "Neither listed",
+    "21",
+    "10.7%"
+   ],
+   [
+    "Sensitivity: incident or closure cost, and an instrument",
+    "163",
+    "82.7%"
+   ],
+   [
+    "Sensitivity: incident cost, closure cost and an instrument",
+    "131",
+    "66.5%"
+   ]
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "All 18 original inspector reports for the initial licences assessed an environmental liabilities risk assessment, a closure, restoration and aftercare management plan, and financial provision as unnecessary at the application stage (Supplementary Table 3). For P1191-01 this assessment appears on page 20. P1191 subsequently appeared on the requirements list for December 2025. The operator’s letter of 22 September 2026 states that the Agency had asked on 24 August 2026 for a plan to complete the closure plan, the liabilities risk assessment and financial provision, and it asks the Agency to reconsider that request. The Agency’s own letter and any subsequent final determination were not obtained."
+   }
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Records of the operating stage exist for these licences. The annual environmental reports for 2025, available for 16 of the 18, record 56 incident notifications across 12 licences. The reports class them in different ways, among them releases of refrigerant gas, trigger levels reached in storm water and exceedances of discharge limits, and a trigger level reached is not an exceedance of a limit. The count takes the figure in the incident table of each report (Supplementary Table 7). Two reports are internally inconsistent: for P1184 the table gives five and the narrative four, and for P1187 the table gives two and another section states none. Using the narrative figures for those two reports gives 53 notifications across 11 licences. Soil and groundwater were sampled at three licensed sites of one operator in 2025 and 2026. The baseline reports for those sites, as read in text, give no values by sampling point, so no measurement could be paired with a baseline, and no change in site condition can be inferred in either direction. These are observations of the operating stage. They are not measurements of the condition of a site after closure, and the tracked closure cases provide none. Separately, the emissions-trading reports for the Equinix DB5 permit give reported emissions from fossil-fuel combustion of 785.62, 29,231.72 and 363.76 tonnes CO₂e in 2023, 2024 and 2025, respectively. EdgeConneX permit IE-GHG186-04 records retirement of twelve gas generators in November 2022. These operational records do not measure post-closure site condition."
+   }
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Table 3 | Stages documented in 27 tracking records. The 27 rows include a permit surrender (C02), a rebuild (C05), a planned closure (C12) and a partial exit (C26), which are tracked records and not completed closures. Demolition is counted as stated complete where a source says so (C04, C06, C07, C24) and as qualified where the source is internally inconsistent (C08) or completion is inferred from later construction (C09). Amount recorded counts the records in which a source gives an amount in connection with exit, relocation or closure. The five amounts are of different kinds, are not all restoration costs and are listed with their nature in Supplementary Table 5. The last column counts records that identify the party that bore the final net cost of environmental restoration. No record does so, and no final account of the works was identified. For seven records with project-level documents, the documents reviewed do not identify it; for the other 20 the available sources describe the event and do not support an assessment. Both verdicts and their basis are given for each record in Supplementary Table 1. The denominator includes tracking records for events other than completed closures."
+   }
+  ]
+ },
+ {
+  "k": "t",
+  "rows": [
+   [
+    "Country",
+    "Tracked",
+    "Operation ended",
+    "Equipment removal",
+    "Demolition: stated complete",
+    "Demolition: qualified",
+    "Amount recorded",
+    "Final cost bearer identified"
+   ],
+   [
+    "United Kingdom",
+    "12",
+    "9",
+    "3",
+    "2",
+    "2",
+    "0",
+    "0"
+   ],
+   [
+    "United States",
+    "8",
+    "6",
+    "3",
+    "2",
+    "0",
+    "4",
+    "0"
+   ],
+   [
+    "Australia",
+    "4",
+    "4",
+    "1",
+    "0",
+    "0",
+    "1",
+    "0"
+   ],
+   [
+    "Germany",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   [
+    "Netherlands",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   [
+    "France",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   [
+    "Total",
+    "27",
+    "21",
+    "7",
+    "4",
+    "2",
+    "5",
+    "0"
+   ]
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Table 4 | Seven stages for eight US cases. Supplementary Table 2 identifies the sources examined for each cell. An evidence gap denotes a stage unresolved within those sources."
+   }
+  ]
+ },
+ {
+  "k": "t",
+  "rows": [
+   [
+    "Case",
+    "Operation ended",
+    "Equipment removal",
+    "Building",
+    "Environmental review",
+    "Public finance",
+    "Spending carried out",
+    "Final responsibility"
+   ],
+   [
+    "Hartford, CT",
+    "Vacant since 2008 according to a state environmental review checklist; exact data-centre cessation date unresolved",
+    "Not established in the sources reviewed",
+    "Demolition underway by October 2026",
+    "Consultant’s scope: hazardous-materials assessment, abatement and remediation design, demolition and air-quality monitoring",
+    "USD 8.4m in state grants identified; council authority to accept a USD 4m state grant; USD 2m city fund reassignment recorded. No combined total or disbursement inferred.",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed"
+   ],
+   [
+    "Wenatchee, WA",
+    "Referred to as the former tenant’s space in board papers of 8 June 2021; lease end date not established",
+    "Generators, chillers and switchgear removed, as reported by industry press in March 2023; earlier board papers place the removal in the design and contract scope",
+    "Restored to a core-and-shell state, as reported by industry press in March 2023; completion of the remaining restoration not established in the sources reviewed",
+    "Soil and mould testing items recorded; results unresolved",
+    "Budget USD 3,217,287 (board packet); tenant payment USD 1.9m as stated by the agency (memo, 6 July 2023); original contract USD 3,780,257 (contract log); bid total USD 2,570,257 after USD 1,210,000 salvage value (bid tabulation); salvage stated as received by a port manager (press)",
+    "Check register: USD 56,380.16 to Absher, 28 June 2024 (check 13482); first-half 2024 project spending USD 64,406.",
+    "Not established in the sources reviewed"
+   ],
+   [
+    "Eagan, MN",
+    "Former data centre; CDA reported vacancy",
+    "Underground tank removal in contract scope; IT removal unresolved",
+    "CDA reports demolition complete by summer 2026",
+    "CDA reports completed remediation; paired measurements unresolved.",
+    "USD 1,867,581 abatement and demolition contract authorised",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed"
+   ],
+   [
+    "Troy, MI",
+    "Headquarters vacant from 2006; data-centre end date unresolved",
+    "Not established in the sources reviewed",
+    "HQ demolition completed July 2024 (local press).",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed"
+   ],
+   [
+    "Olympia, WA",
+    "OB2 data centre decommissioned in 2015",
+    "Equipment relocated to new state data centre",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "USD 5,069,541 Phase 1 move budget",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed"
+   ],
+   [
+    "Denver, CO",
+    "Company wound down July 2023; exact site end date unresolved",
+    "Not established in the sources reviewed",
+    "Building offered for sale or lease",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed"
+   ],
+   [
+    "Fayetteville, NC",
+    "Partial exit; founder described intended leaseback",
+    "Not established in the sources reviewed",
+    "Building sold; conversion proposed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed"
+   ],
+   [
+    "The Dalles, OR",
+    "Operator rebuilding at existing site",
+    "Electrical and mechanical equipment removed",
+    "Building partly removed; new construction approved",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed",
+    "Not established in the sources reviewed"
+   ]
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Table 5 distinguishes commitments from expenditure. Wenatchee records identify a tenant payment, as stated by the agency, and a contractor payment entered in the port authority’s check register. Hartford records identify funding and work in progress. Neither record set establishes a final allocation of environmental costs."
+   }
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Table 5 | Chronology of the Hartford and Wenatchee cases. Events are those recorded in public documents. The final row for each case lists what was searched for and not found."
+   }
+  ]
+ },
+ {
+  "k": "t",
+  "rows": [
+   [
+    "Case",
+    "Date",
+    "Recorded event"
+   ],
+   [
+    "Hartford",
+    "1968",
+    "Building in use as office and data centre; later used by a bank"
+   ],
+   [
+    "",
+    "2008",
+    "Vacant from this year, according to a state environmental review checklist and a Phase I report cited in a 2015 bond disclosure"
+   ],
+   [
+    "",
+    "2015",
+    "Disclosure records mould and asbestos-containing materials throughout the building and on-site chemicals; city to acquire the parcel"
+   ],
+   [
+    "",
+    "June 2025",
+    "USD 2 million reassigned from a city loan fund to demolition"
+   ],
+   [
+    "",
+    "July 2025",
+    "City council records authority to accept a USD 4 million state grant for demolition and abatement"
+   ],
+   [
+    "",
+    "2025",
+    "State notice: USD 8.4 million in state grants for demolition and abatement on the city-owned site"
+   ],
+   [
+    "",
+    "February 2026",
+    "Development-authority minutes record abatement in progress"
+   ],
+   [
+    "",
+    "March 2026",
+    "Abatement reported under way; consultant's scope includes PCB-impacted soil, PCB- and asbestos-containing materials and tank closure"
+   ],
+   [
+    "",
+    "October 2026",
+    "Exterior demolition begins"
+   ],
+   [
+    "",
+    "Not located",
+    "No project-linked payment voucher identifying date, payee and amount was located. Also not found: a final account; soil or groundwater measurements; completion of restoration; any liability of the former operator. The grants of USD 8.4 million and USD 4 million and the USD 2 million city fund are not added together."
+   ],
+   [
+    "Wenatchee",
+    "June 2021",
+    "Board minutes describe the space as the former tenant's and set a restoration deadline"
+   ],
+   [
+    "",
+    "October 2021",
+    "Settlement option of USD 1.9 million presented; lease termination authorised; first bids rejected"
+   ],
+   [
+    "",
+    "November 2022",
+    "Bid tabulation: salvage value USD 1,210,000 and bid total USD 2,570,257 after it. Contract log: original contract amount USD 3,780,257, start date 14 November 2022, final amount left blank. Budget USD 3,217,287"
+   ],
+   [
+    "",
+    "March 2023",
+    "Industry press reports generators, chillers and switchgear removed and the building restored to a core-and-shell state, with the remaining restoration expected later; a port manager is quoted as saying that USD 1,210,000 in salvage was received at the start of the project"
+   ],
+   [
+    "",
+    "2023",
+    "Agency memo reports USD 1.9m tenant payment. A previous single reading identified check 11792 for USD 437,709.63; it was not relocated in the latest audit."
+   ],
+   [
+    "",
+    "Jan to Jun 2024",
+    "USD 64,406 spent on the project"
+   ],
+   [
+    "",
+    "28 June 2024",
+    "Check register entry: USD 56,380.16 to Absher Construction Company for the salvage, demolition and restoration project (check 13482). A register entry, not a bank record; not added to the half-year figure"
+   ],
+   [
+    "",
+    "January 2025",
+    "Capital plan entry: close-out, USD 4,257,257, notice of completion filed, retainage in escrow. The figure equals the earlier capital-budget amount and is not a final account"
+   ],
+   [
+    "",
+    "Not located",
+    "Signed contract, a deposit record for the salvage proceeds, final account, net public outlay, environmental test results and final remediation expenditure."
+   ]
+  ]
+ },
+ {
+  "k": "p",
+  "runs": [
+   {
+    "t": "Table 6 | What the public record shows and does not show. Not shown means not found in the sources searched or not obtained. It does not mean that the thing does not exist."
+   }
+  ]
+ },
+ {
+  "k": "t",
+  "rows": [
+   [
+    "Evidence",
+    "Shown",
+    "Not shown"
+   ],
+   [
+    "18 Irish data-centre licences",
+    "Closure obligation in all 18; provision clause discretionary; one licence listed as requiring provision",
+    "An agreed closure cost, incident cost or instrument for any licence; a closure-cost estimate for any licence (closure plans for five initial applications and one review state that costs were not estimated; no costing document was obtained for 11)"
+   ],
+   [
+    "197 listed facilities",
+    "Closure cost and instrument co-listed for 162 of 197 (163 any cost, 131 both costs).",
+    "Adequacy of the sums secured; the position of facilities outside the list"
+   ],
+   [
+    "P1191",
+    "Not required in 2023, listed in 2025; in 2026 an Agency request as cited in the operator’s letter, and the operator’s request for reconsideration",
+    "The listing decision; an agreed cost or instrument; the regulator's final position"
+   ],
+   [
+    "27 international tracking records",
+    "Operations ended in 21; equipment removal in seven; six demolition entries (four stated complete, two qualified); an amount recorded in connection with exit or relocation in five.",
+    "A final account of the works, or the party bearing the final net cost of restoration, in any record; soil or groundwater before and after closure; any amount in the 12 United Kingdom cases"
+   ],
+   [
+    "Hartford and Wenatchee",
+    "Public bodies holding the site, contracts, budgets, grants, some spending and proceeds",
+    "Final account, net public outlay and remediation cost."
+   ],
+   [
+    "Company accounts",
+    "Three of eight companies separately disclosed provisions.",
+    "No disclosed amount was explicitly attributed to closure or restoration of an identified licensed data centre."
+   ]
+  ]
+ }
+]
